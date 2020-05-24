@@ -1,0 +1,35 @@
+h1{
+	font-size: 5rem;
+	font-family: 'Skranji', cursive;
+}
+h3{
+	font-family: 'Skranji', cursive;
+}
+img{
+	height: 2rem;
+}
+.facebook-height{
+	height:1.5rem;
+}
+.buffer{
+	height: 35rem;
+}
+
+.main{
+	background-color:#5d5d5d;
+}
+.title{
+	font-family: 'Skranji', cursive;
+	color:#f7f7f7;
+}
+.dropdown-menu{
+	background-color: #ff9c00;
+
+}
+.dropdown-item{
+	font-weight: bold !important;
+	color: black !important ;
+}
+.h4{
+	color:#f7f7f7;
+}
